@@ -30,5 +30,5 @@ target_link_libraries(Zodiac
 )
 
 install(TARGETS Zodiac EXPORT Zodiac)
-install(EXPORT Zodiac DESTINATION cmake NAMESPACE Zodiac:: FILE ZodiacConfig.cmake)
+#install(EXPORT Zodiac DESTINATION cmake NAMESPACE Zodiac:: FILE ZodiacConfig.cmake)
 
