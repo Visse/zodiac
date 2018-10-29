@@ -1,0 +1,12 @@
+[submodule "Common"]
+    path = Common
+    url = https://github.com/Visse/common.git
+[submodule "Pisces"]
+    path = Pisces
+    url = https://github.com/Visse/pisces.git
+[submodule "compiler_warnings"]
+    path = compiler_warnings
+    url = https://github.com/Visse/compiler_warnings.git
+[submodule "dependencies"]
+    path = dependencies
+    url = https://github.com/Visse/zodiac-dependencies.git
